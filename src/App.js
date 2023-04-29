@@ -7,6 +7,7 @@ import Profile from "./components/Profile";
 import Register from "./components/Register";
 import Login from "./components/Login";
 import { Toaster } from "react-hot-toast";
+
 import PrivateComponent from "./components/PrivateComponent";
 
 
